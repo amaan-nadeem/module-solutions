@@ -58,7 +58,8 @@ padding: 0;
 	background-color: white;
 }
 
-.row {width: 100%;}
+.row {width: 100%;
+padding-left:30px;}
 @media (min-width: 768px) and (max-width: 991px) {
 	.row {
 		padding-left: 30px;
